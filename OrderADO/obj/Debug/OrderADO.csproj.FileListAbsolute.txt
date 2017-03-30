@@ -1,0 +1,15 @@
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\bin\Debug\OrderADO.exe
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\bin\Debug\OrderADO.pdb
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.Form1.resources
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.Properties.Resources.resources
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.exe
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.pdb
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.FormEditOrder.resources
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.FormEditOrderType.resources
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.FormEditPoleName.resources
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.FormOrderType.resources
+C:\C#_Программы_Разработка\2015\Order\OrderADO\OrderADO\obj\Debug\OrderADO.FormSelectionType.resources
+E:\Order\OrderADO\OrderADO\obj\Debug\OrderADO.exe
+E:\Order\OrderADO\OrderADO\obj\Debug\OrderADO.pdb
